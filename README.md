@@ -8,7 +8,6 @@ A modern React Kanban Task Board built using **dnd-kit** with drag , task editin
 
 ## Live link - https://taskboard-delta-three.vercel.app/
 
-## DEMO - 
 
 ---
 
